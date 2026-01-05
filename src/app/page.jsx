@@ -65,7 +65,7 @@ export default function Home() {
       initial={{ scale: 0.9 }}
       animate={{ scale: 1 }}
       transition={{ duration: 0.8 }}
-      className="w-60 h-60 rounded-2xl object-cover shadow-2xl border border-white/30"
+      className="w-120 h-60 rounded-2xl object-cover shadow-2xl border border-white/30"
     />
 
     {/* Anniversary Text */}
